@@ -12,6 +12,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
+import com.example.schoolstu.Modules.School;
+import com.example.schoolstu.Modules.SchoolCustomAdapter;
+
 import java.util.ArrayList;
 import java.util.List;
 

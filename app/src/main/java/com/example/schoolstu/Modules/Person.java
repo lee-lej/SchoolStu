@@ -1,4 +1,4 @@
-package com.example.schoolstu;
+package com.example.schoolstu.Modules;
 
 public class Person {
     String name;
